@@ -56,22 +56,22 @@ streamlit run app.py
 - ## Capturas de Pantalla
 
 ### Panel Principal y Estado Operativo
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png.png)
 
 ### Temperatura y Humedad con Promedio Móvil
-![Temperatura](screenshots/temperatura.png)
+![Temperatura](screenshots/temperatura.png.png)
 
 ### Vibración con Detección de Anomalías
-![Vibración](screenshots/vibracion.png)
+![Vibración](screenshots/vibracion.png.png)
 
 ### Trayectoria 3D del Vector de Aceleración
-![3D](screenshots/3d.png)
+![3D](screenshots/3d.png.png)
 
 ### Modelo Predictivo con Proyección
-![Predictivo](screenshots/predictivo.png)
+![Predictivo](screenshots/predictivo.png.png)
 
 ### Estadística Descriptiva
-![Estadística](screenshots/estadistica.png)
+![Estadística](screenshots/estadistica.png.png)
 
 ## Métodos Analíticos
 
