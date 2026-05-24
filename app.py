@@ -194,7 +194,7 @@ if show_temp or show_hum:
                 fig_trend.add_trace(go.Scatter(x=df_forecast["_time"], y=df_forecast["trend"],
                     name="Proyección", line=dict(color="#EF4444", width=2, dash="dash"), opacity=0.8))
                 fig_trend.add_vrect(x0=df_forecast["_time"].min(), x1=df_forecast["_time"].max(),
-                    fillcolor="#EF444420", line_width=0,
+                    fillcolor="rgba(239,68,68,0.12)", line_width=0,
                     annotation_text="PROYECCIÓN", annotation_position="top left")
             fig_trend.update_layout(height=320, paper_bgcolor="#0A0E1A", plot_bgcolor="#111827",
                 font=dict(color="#94A3B8", family="Share Tech Mono"),
@@ -309,7 +309,7 @@ if show_vib:
                 fig_vt.add_trace(go.Scatter(x=df_vfc["_time"], y=df_vfc["trend"],
                     name="Proyección", line=dict(color="#EF4444", width=2, dash="dash"), opacity=0.8))
                 fig_vt.add_vrect(x0=df_vfc["_time"].min(), x1=df_vfc["_time"].max(),
-                    fillcolor="#EF444420", line_width=0,
+                    fillcolor="rgba(239,68,68,0.12)", line_width=0,
                     annotation_text="PROYECCIÓN", annotation_position="top left")
             fig_vt.add_hline(y=vib_threshold, line_color="#EF4444", line_dash="dot",
                 annotation_text=f"Umbral {vib_threshold}", annotation_font_color="#EF4444")
