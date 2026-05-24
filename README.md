@@ -2,7 +2,7 @@
 
 **Curso:** Digitalización de Plantas Productivas | Proyecto Final
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://TU-URL.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]((https://rym-manufacturing-dashboard-uyomnutmkxmpnraq7zxbz9.streamlit.app/))
 
 ## Descripción del Caso
 
