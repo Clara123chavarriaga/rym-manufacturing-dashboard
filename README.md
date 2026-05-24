@@ -78,10 +78,10 @@ streamlit run app.py
 
 | Nombre | Rol |
 |--------|-----|
-| [María Clara Chavarriaga Álvarez] | Desarrollo del proyecto |
-| [Sofía Montoya Mejía] | Desarrollo del proyecto |
-| [Andrea Lopera Lopera] | Desarrollo del proyecto |
-| [Jose Daniel Jaramillo Giraldo] | Desarrollo del proyecto |
+| María Clara Chavarriaga Álvarez | Diseño, desarrollo, análisis y documentación del proyecto |
+| Sofía Montoya Mejía | Diseño, desarrollo, análisis y documentación del proyecto |
+| Andrea Lopera Lopera | Diseño, desarrollo, análisis y documentación del proyecto |
+| Jose Daniel Jaramillo Giraldo | Diseño, desarrollo, análisis y documentación del proyecto |
 
 ---
 *Digitalización de Plantas Productivas — 2026-1*
