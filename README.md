@@ -53,6 +53,25 @@ streamlit run app.py
 - **Trayectoria 3D** del vector de aceleración
 - **Estadística descriptiva** completa (N, media, std, percentiles, CV%)
 - **Controles interactivos**: rango de tiempo, umbrales, auto-refresco
+- ## Capturas de Pantalla
+
+### Panel Principal y Estado Operativo
+![Dashboard](screenshots/dashboard.png)
+
+### Temperatura y Humedad con Promedio Móvil
+![Temperatura](screenshots/temperatura.png)
+
+### Vibración con Detección de Anomalías
+![Vibración](screenshots/vibracion.png)
+
+### Trayectoria 3D del Vector de Aceleración
+![3D](screenshots/3d.png)
+
+### Modelo Predictivo con Proyección
+![Predictivo](screenshots/predictivo.png)
+
+### Estadística Descriptiva
+![Estadística](screenshots/estadistica.png)
 
 ## Métodos Analíticos
 
@@ -72,7 +91,6 @@ streamlit run app.py
 └── .streamlit/
     └── config.toml      # Tema visual
 
-## Equipo
 
 ## Equipo
 
