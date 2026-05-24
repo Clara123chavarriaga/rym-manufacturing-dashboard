@@ -2,7 +2,7 @@
 
 **Curso:** Digitalización de Plantas Productivas | Proyecto Final
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]((https://rym-manufacturing-dashboard-uyomnutmkxmpnraq7zxbz9.streamlit.app/))
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rym-manufacturing-dashboard-uyomnutmkxmpnraq7zxbz9.streamlit.app/)
 
 ## Descripción del Caso
 
@@ -25,7 +25,7 @@ RYM Manufacturing opera una celda de producción con proceso de secado asistido 
 ## Instalación Local
 
 ```bash
-git clone https://github.com/TU_USUARIO/rym-manufacturing-dashboard.git
+git clone https://github.com/Clara123chavarriaga/rym-manufacturing-dashboard.git
 cd rym-manufacturing-dashboard
 pip install -r requirements.txt
 streamlit run app.py
@@ -63,3 +63,25 @@ streamlit run app.py
 - **Magnitud euclidiana**: `|a| = sqrt(ax² + ay² + az²)`
 
 ## Estructura del Proyecto
+## Estructura del Proyecto
+
+├── app.py               # Aplicación principal Streamlit
+├── data_connector.py    # Conexión y consultas InfluxDB
+├── analytics.py         # Módulo de analítica
+├── requirements.txt     # Dependencias
+└── .streamlit/
+    └── config.toml      # Tema visual
+
+## Equipo
+
+## Equipo
+
+| Nombre | Rol |
+|--------|-----|
+| [María Clara Chavarriaga Álvarez] | Desarrollo del proyecto |
+| [Sofía Montoya Mejía] | Desarrollo del proyecto |
+| [Andrea Lopera Lopera] | Desarrollo del proyecto |
+| [Jose Daniel Jaramillo Giraldo] | Desarrollo del proyecto |
+
+---
+*Digitalización de Plantas Productivas — 2026-1*
